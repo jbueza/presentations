@@ -5,6 +5,7 @@
 - NodeJS: asynchronous non-blocking i/o, the event loop, and benefits of using javavscript on the backend and the frontend
 - WebSockets: exploration of new web experiences, the problems, and the solutions
 - Microframeworks: an evolved structural approach to building web applications on top of jQuery with refactorability, simplicity, and scalability as its focus
+- HTML 5 Boilerplate: how to really use this wonderful boilerplate code and the benefits of polyfilling (modernizr)
 
 ### Travel-based Presentations
 
